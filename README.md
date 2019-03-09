@@ -1,1 +1,1 @@
-# hw6
+My idea for my midterm project, is to have users be able to draw lines with the cursor, and everytime it draws a line sounds will appear (still determining what the sound will be, perhaps music or random sound effects like dog barks, doorbell, etc)
